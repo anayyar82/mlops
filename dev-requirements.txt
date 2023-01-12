@@ -1,0 +1,4 @@
+cookiecutter>=2.1.0
+pytest
+pytest-black
+mlflow==2.0.1

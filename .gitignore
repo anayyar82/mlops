@@ -1,0 +1,16 @@
+.DS_Store
+# Local .terraform directories
+**/.terraform/*
+# Ignore CLI configuration files
+.terraformrc
+terraform.rc
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+*.hcl
+.idea/
+__pycache__/
+.cache
+*.pyc
+mlops-stack.iml
